@@ -1,0 +1,26 @@
+--END OF MINIMAL INSTALL--
+autojump
+brave-bin
+google-chrome-stable
+midori
+torbrowser
+bridge-utils
+dxvk-bin
+github-desktop-bin
+lightly-git
+lightlyshaders-git
+nerd-fonts-fira-code
+nordic-darker-standard-buttons-theme
+nordic-darker-theme
+nordic-kde-git
+nordic-theme
+ocs-url
+plymouth-git
+sddm-nordic-theme-git
+snapper-gui-git
+ttf-meslo
+vde2
+zoom
+openrazer-meta
+polychromatic
+input-remapper
